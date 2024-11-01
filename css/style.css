@@ -1,0 +1,13 @@
+.wif-photos{
+	width: 100%;
+}
+
+.wif-photos .photo-col{
+	float: left;
+	width: 30%;
+	padding-right: 10px;
+}
+
+.wif-photos .photo-col img{
+	width: 100%;
+}
